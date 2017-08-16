@@ -8,4 +8,6 @@ Creating a new branch is quick and simple.
 23
 hh
 anotheer local dev branch
+change on branch feature to branch dev
+now merge to master
 
